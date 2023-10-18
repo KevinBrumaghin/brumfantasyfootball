@@ -1,0 +1,19 @@
+#searchContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+}
+#search{
+    width: 50vw;
+    height: 30px;
+    border-radius: 10px;
+    border-style: groove;
+    border: 1px solid rgb(13,11,10);
+    font-family: "Sports EA Sports";
+    padding-left: 10px;
+}
+#searchIcon{
+    font-size: 32px;
+    margin-right: 5px;
+}
