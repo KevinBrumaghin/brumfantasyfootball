@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+BrumFantasyFootball
+Welcome to BrumFantasyFootball, your go-to destination for all things fantasy football. Our site is your trusted source for practical advice, insightful strategies, and up-to-date analysis to help you excel in the competitive world of fantasy sports. Whether you're a seasoned veteran or a newcomer eager to learn the ropes, our blog offers valuable insights and expert guidance. Dive into our collection of data-driven insights, weekly player recommendations, and game-winning strategies to build a formidable fantasy team. With BrumFantasyFootball, you'll be well-equipped to navigate the real-world intricacies of the sport and make informed decisions to secure your fantasy league victory. Get ready to dominate your fantasy league with the help of BrumFantasyFootball!
