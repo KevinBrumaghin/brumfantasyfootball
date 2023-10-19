@@ -1,0 +1,41 @@
+#createPostContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(199,138,47);
+    margin-top: 60px;
+}
+#postContainer{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+create-post-header{
+    margin: 10px;
+    font-size: 30px;
+}
+#createPostTitle{
+    width: 10vw;
+    height: 20px;
+    border-radius: 10px;
+    border-style: groove;
+    border: 1px solid rgb(13,11,10);
+    font-family: "Sports EA Sports";
+    padding-left: 10px;
+}
+#createPost{
+    width: 30vw;
+    height: 200px;
+    border-radius: 10px;
+    border-style: groove;
+    border: 1px solid rgb(13,11,10);
+    font-family: "Sports EA Sports";
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#createPostIcon{
+    font-size: 32px;
+    margin-right: 5px;
+}

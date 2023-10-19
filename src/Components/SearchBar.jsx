@@ -5,7 +5,7 @@ export default function SearchBar(){
         <>
             <div id="searchContainer">
                 <BiSearchAlt2 id="searchIcon"/>
-                <input id="search" type="text" placeholder='Search...'/>
+                <input id="search" type="text" placeholder='Search Blogs...'/>
             </div>
         </>
     )

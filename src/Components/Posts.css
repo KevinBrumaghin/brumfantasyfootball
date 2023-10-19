@@ -1,0 +1,22 @@
+posts-block{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 70px;
+}
+posts-area-outline{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid rgba(13,11,10,.3);
+    border-radius: 20px;
+    width: 50vw;
+    height: 500px;
+}
+#noPosts{
+    margin-top: 50px;
+    color: rgba(13,11,10,.3);
+    font-size: 20px;
+}
