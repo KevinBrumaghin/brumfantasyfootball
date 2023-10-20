@@ -9,6 +9,9 @@ import Leaders from './Pages/Leaders'
 function App() {
   let Component;
   switch (window.location.pathname){
+    case "/":
+      Component = Blog;
+      break
     case "/blog":
       Component = Blog;
       break

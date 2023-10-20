@@ -1,0 +1,42 @@
+#postContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(199,138,47);
+    margin-top: 40px;
+    max-width: 45vw;
+    min-width: 45vw;
+    border: 1px solid rgb(13,11,10);
+    border-radius: 20px;
+    padding: 15px;
+}
+post-title{
+    margin-right: auto;
+    font-size: 28px;
+    user-select: none
+}
+post-user{
+    color: rgb(13,11,10);
+    font-size: 12px;
+    margin-right: auto;
+    margin-top: 5px;
+    user-select: none
+}
+post-time{
+    color: rgb(13,11,10);
+    font-size: 12px;
+    margin-right: auto;
+    user-select: none
+}
+#postText{
+    color: rgb(13,11,10);
+    font-size: 20px;
+    margin-right: auto;
+    user-select: none
+}
+#likeButton{
+    font-size: 30px;
+    margin-right: auto;
+    cursor: pointer;
+}
