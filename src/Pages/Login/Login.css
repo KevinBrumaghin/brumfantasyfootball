@@ -1,0 +1,49 @@
+#loginText{
+    font-size: 45px;
+    margin-bottom: 20px;
+    margin-top: -100px;
+}
+#loginBlock{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url('./src/Images/background1.png');
+    width: 100vw;
+    height: 93.5vh;
+}
+#inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#username{
+    margin: 6px;
+    width: 20vw;
+    height: 40px;
+    border-radius: 10px;
+    border-style: groove;
+    border: 1px solid rgb(13,11,10);
+    font-family: "Sports EA Sports";
+    padding-left: 10px;
+}
+#password{
+    margin-bottom: 10px;
+    width: 20vw;
+    height: 40px;
+    border-radius: 10px;
+    border-style: groove;
+    border: 1px solid rgb(13,11,10);
+    padding-left: 10px;
+}
+#buttonL{
+    border-radius: 10px;
+    border-style: groove;
+    border: none;
+    margin: 4px;
+    width: 10vw;
+    height: 30px;
+    font-family: "Sports EA Sports";
+    background-color: rgba(199,138,47,1);
+}
