@@ -3,7 +3,7 @@ import './App.css'
 import './Components/SearchBar.css'
 import Header from './Components/Header.jsx'
 import Blog from './Pages/Blog'
-import Rankings from './Pages/Rankings'
+import Rankings from './Pages/Rankings/Rankings'
 import Leaders from './Pages/Leaders'
 
 function App() {

@@ -1,4 +1,4 @@
-import { BiMenuAltLeft } from 'react-icons/bi';
+import { BiSolidUserAccount } from 'react-icons/bi';
 
 export default function Header(){
     return(
@@ -6,7 +6,7 @@ export default function Header(){
         <div id="header">
             <div id="logoMenu">
             <a href="/blog" id="logoContainer"><img id="logo"src="./src/Images/logo.png" alt="logo" /></a>
-            <button id="menu"><BiMenuAltLeft /></button>
+            <button id="menu"><BiSolidUserAccount /></button>
             </div>
             <div className='topMenu'>
             <a id="headerA" href="/blog"><header-block>Blog</header-block></a>

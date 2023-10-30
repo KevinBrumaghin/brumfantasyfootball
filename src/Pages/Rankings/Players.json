@@ -1,0 +1,74 @@
+[
+    {
+      "rank": 1,
+      "name": "Patrick Mahomes",
+      "position": "QB",
+      "team": "KC"
+    },
+    {
+      "rank": 2,
+      "name": "Josh Allen",
+      "position": "QB",
+      "team": "BUF"
+    },
+    {
+      "rank": 3,
+      "name": "Jalen Hurts",
+      "position": "QB",
+      "team": "PHI"
+    },
+    {
+      "rank": 4,
+      "name": "Justin Herbert",
+      "position": "QB",
+      "team": "LAC"
+    },
+    {
+      "rank": 5,
+      "name": "Austin Ekeler",
+      "position": "RB",
+      "team": "LAC"
+    },
+    {
+      "rank": 6,
+      "name": "Kenneth Walker III",
+      "position": "RB",
+      "team": "SEA"
+    },
+    {
+      "rank": 7,
+      "name": "Bijan Robinson",
+      "position": "RB",
+      "team": "ATL"
+    },
+    {
+      "rank": 8,
+      "name": "Aaron Jones",
+      "position": "RB",
+      "team": "GB"
+    },
+    {
+      "rank": 9,
+      "name": "Cooper Kupp",
+      "position": "WR",
+      "team": "LAR"
+    },
+    {
+      "rank": 10,
+      "name": "Davante Adams",
+      "position": "WR",
+      "team": "LV"
+    },
+    {
+      "rank": 49,
+      "name": "Kyle Pitts",
+      "position": "TE",
+      "team": "ATL"
+    },
+    {
+      "rank": 50,
+      "name": "Darren Waller",
+      "position": "TE",
+      "team": "LV"
+    }
+  ]

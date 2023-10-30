@@ -1,0 +1,51 @@
+rankings-body{
+    display: flex;
+    justify-content: center;
+}
+table{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 1vw;
+    max-width: 30vw;
+    min-width: 30vw;
+}
+thead{
+    display: flex;
+    flex-direction: flex-start;
+    border: 1px solid rgb(13,11,10);
+    width: 30vw;
+}
+trr{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+th:nth-child(1){
+    margin-right: 2.8vw;
+}
+th:nth-child(2){
+    margin-right: 10.3vw;
+}
+th:nth-child(3){
+    margin-right: 2vw;
+}
+tbody{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(13,11,10);
+    width: 30vw;
+}
+td:nth-child(2){
+    width: 15vw;
+    padding-bottom: 5px;
+}
+td:first-of-type,td:nth-child(3){
+    width: 5vw;
+    padding-bottom: 5px;
+}
+td:nth-of-type(4){
+    padding-bottom: 5px;
+}
